@@ -23,4 +23,4 @@ Java is chosen as programming language in order to use Hash-Maps to save time. H
 * sll
 * jr
 
-*Note:* instrictions that need labels like j, beq, bne etc. aren't implemented.
+*Note:* instructions that need labels like j, beq, bne etc. aren't implemented.
